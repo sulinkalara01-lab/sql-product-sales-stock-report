@@ -1,3 +1,5 @@
+-- Calculate average price per category and rank categories in descending order--
+
 WITH Category_Avg_Prices AS (
     SELECT 
         category,
