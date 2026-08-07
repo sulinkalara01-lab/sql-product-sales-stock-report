@@ -1,3 +1,4 @@
+-- Analyze product sales performance and classify stock inventory status--
 SELECT 
        p.name, 
        p.category,
